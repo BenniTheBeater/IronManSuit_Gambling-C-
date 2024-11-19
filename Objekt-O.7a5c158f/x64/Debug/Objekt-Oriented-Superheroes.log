@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\benbjo28\OneDrive - Møre og Romsdal Fylkeskommune\2IT1\Utvikling\C++\Objekt-Oriented-Superheroes\src\Main.cpp(30,44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\benbjo28\OneDrive - Møre og Romsdal Fylkeskommune\2IT1\Utvikling\C++\Objekt-Oriented-Superheroes\src\Main.cpp(71,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benbjo28\OneDrive - Møre og Romsdal Fylkeskommune\2IT1\Utvikling\C++\Objekt-Oriented-Superheroes\src\Main.cpp(80,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benbjo28\OneDrive - Møre og Romsdal Fylkeskommune\2IT1\Utvikling\C++\Objekt-Oriented-Superheroes\src\Main.cpp(81,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Objekt-Oriented-Superheroes.vcxproj -> C:\Users\benbjo28\OneDrive - Møre og Romsdal Fylkeskommune\2IT1\Utvikling\C++\Objekt-Oriented-Superheroes\x64\Debug\Objekt-Oriented-Superheroes.exe
